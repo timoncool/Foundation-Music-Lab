@@ -1,11 +1,17 @@
+<div align="center">
+
 # Foundation Music Lab
 
-[![Stars](https://img.shields.io/github/stars/timoncool/Foundation-Music-Lab?style=social)](https://github.com/timoncool/Foundation-Music-Lab/stargazers)
-[![License](https://img.shields.io/github/license/timoncool/Foundation-Music-Lab)](LICENSE)
+**Портативный AI-генератор музыки со встроенным таймлайн-редактором — Stable Audio, установка в один клик, 100% офлайн.**
 
-Улучшенный и оптимизированный под модель Foundation_1 форк [RC Stable Audio Tools](https://github.com/RoyalCities/RC-stable-audio-tools) со встроенным редактором треков.
+[![Stars](https://img.shields.io/github/stars/timoncool/Foundation-Music-Lab?style=flat-square)](https://github.com/timoncool/Foundation-Music-Lab/stargazers)
+[![License](https://img.shields.io/github/license/timoncool/Foundation-Music-Lab?style=flat-square)](LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/timoncool/Foundation-Music-Lab?style=flat-square)](https://github.com/timoncool/Foundation-Music-Lab/commits)
+[![Downloads](https://img.shields.io/github/downloads/timoncool/Foundation-Music-Lab/total?style=flat-square)](https://github.com/timoncool/Foundation-Music-Lab/releases)
 
-Портативная русскоязычная версия для Windows.
+</div>
+
+Улучшенный и оптимизированный под модель Foundation_1 форк [RC Stable Audio Tools](https://github.com/RoyalCities/RC-stable-audio-tools) со встроенным таймлайн-редактором. Портативная русскоязычная версия для Windows.
 
 ## Скриншоты
 
@@ -103,14 +109,15 @@ Foundation-Music-Lab/
 - **Vocal Textures Main** — вокальные текстуры
 - **Audialab EDM Elements** — EDM элементы
 
-## Другие портативные нейросети
+## Другие проекты [@timoncool](https://github.com/timoncool)
 
 | Проект | Описание |
 |--------|----------|
-| [VibeVoice ASR](https://github.com/timoncool/VibeVoice_ASR_portable_ru) | Распознавание речи (ASR) |
-| [LavaSR](https://github.com/timoncool/LavaSR_portable_ru) | Улучшение качества аудио |
-| [Qwen3-TTS](https://github.com/timoncool/Qwen3-TTS_portable_rus) | Синтез речи (TTS) от Qwen |
-| [SuperCaption Qwen3-VL](https://github.com/timoncool/SuperCaption_Qwen3-VL) | Генерация описаний изображений |
+| [ACE-Step Studio](https://github.com/timoncool/ACE-Step-Studio) | AI-студия музыки — песни, вокал, каверы, клипы |
+| [VibeVoice ASR](https://github.com/timoncool/VibeVoice_ASR_portable_ru) | Портативное распознавание речи |
+| [LavaSR](https://github.com/timoncool/LavaSR_portable_ru) | Портативное улучшение аудио |
+| [Qwen3-TTS](https://github.com/timoncool/Qwen3-TTS_portable_rus) | Портативный TTS с клонированием голоса |
+| [SuperCaption Qwen3-VL](https://github.com/timoncool/SuperCaption_Qwen3-VL) | Портативное описание изображений |
 | [VideoSOS](https://github.com/timoncool/videosos) | AI-видеопродакшн в браузере |
 
 ## Авторы
@@ -119,10 +126,6 @@ Foundation-Music-Lab/
 - **Нейро-Софт** ([t.me/neuroport](https://t.me/neuroport)) — репаки и портативки нейросетей
 - **RoyalCities** — оригинальный проект RC-stable-audio-tools
 - **Stability AI** — модель Stable Audio
-
----
-
-> **Если проект полезен — поставьте звёздочку!** Это помогает другим находить проект и мотивирует на развитие.
 
 ## Поддержать автора
 
@@ -139,8 +142,8 @@ Foundation-Music-Lab/
 
 <a href="https://www.star-history.com/?repos=timoncool%2FFoundation-Music-Lab&type=date&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=timoncool/Foundation-Music-Lab&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=timoncool/Foundation-Music-Lab&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=timoncool/Foundation-Music-Lab&type=date&legend=top-left" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=timoncool/Foundation-Music-Lab&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=timoncool/Foundation-Music-Lab&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=timoncool/Foundation-Music-Lab&type=date&legend=top-left" />
  </picture>
 </a>
